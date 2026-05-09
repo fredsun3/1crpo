@@ -38,6 +38,7 @@ export const poems: Poem[] = [
   },
   {
     id: "pusaman-huanghelou",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_0021d059-9310-4c31-a909-f6e7ace76748.jpeg?sign=1809836998-8c47700a87-0-4a095b99d091517541dde0a34e6d1463d034b691844188f74662fab53635e3f8",
     title: "菩萨蛮·黄鹤楼",
     ciPai: "菩萨蛮",
     year: "1927",
@@ -63,6 +64,7 @@ export const poems: Poem[] = [
   },
   {
     id: "xijiangyue-jinggangshan",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_4397222a-ee19-4cca-8980-079663d49ce4.jpeg?sign=1809836998-7e039204d2-0-06397a235cab5ffdb404a4c43f4839448ce2af0a04f13a40353dec0295a13def",
     title: "西江月·井冈山",
     ciPai: "西江月",
     year: "1928",
@@ -88,6 +90,7 @@ export const poems: Poem[] = [
   },
   {
     id: "caisangzi-chongyang",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_1899daff-dcf1-48f8-8974-962f9ef2f5d8.jpeg?sign=1809836997-ee6586afef-0-ec2c21eb60a3a6d7f73b84d209b496f82005aa804c16a7e527a25654698b8714",
     title: "采桑子·重阳",
     ciPai: "采桑子",
     year: "1929",
@@ -112,6 +115,7 @@ export const poems: Poem[] = [
   },
   {
     id: "jianzimuhuanlan-guangchang",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_3098b15c-7741-40e8-9af6-d6e7d83628d2.jpeg?sign=1809836997-c1f99ccc5e-0-f8c7924f7b3d79ff0a4c4f41380733d5d65594a0ada6061ba220f1f3f14d58ea",
     title: "减字木兰花·广昌路上",
     ciPai: "减字木兰花",
     year: "1930",
@@ -136,6 +140,7 @@ export const poems: Poem[] = [
   },
   {
     id: "rumenglin-yuandan",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_807795de-c8c6-4068-b8ce-8f0102d975c4.jpeg?sign=1809837019-a778ef279f-0-7dc5922570dbc46b7fba54e679e3e6d2d08bcac2b66bce868f8dae04ca7822fd",
     title: "如梦令·元旦",
     ciPai: "如梦令",
     year: "1930",
@@ -157,6 +162,7 @@ export const poems: Poem[] = [
   },
   {
     id: "dielianhua-tingzhou",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_85b48839-fe05-405f-9dff-f38d9c2fe18f.jpeg?sign=1809837018-a852f441e4-0-9a196e502baac02359d051573d339d63acbb76695d62b2a0d942efe923b75c5e",
     title: "蝶恋花·从汀州向长沙",
     ciPai: "蝶恋花",
     year: "1930",
@@ -183,6 +189,7 @@ export const poems: Poem[] = [
   },
   {
     id: "yujiao-fanweijiao1",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_35438c33-8149-4260-a8c7-cc7f81deb4b8.jpeg?sign=1809837020-42a41a455b-0-2fd3c1e21ceb80b8862e90cbcbe158e75b36003ff1c9a49fa96a49ca5bb68d2d",
     title: `渔家傲·反第一次大"围剿"`,
     ciPai: "渔家傲",
     year: "1931",
@@ -207,6 +214,7 @@ export const poems: Poem[] = [
   },
   {
     id: "yujiao-fanweijiao2",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_43a1f834-a09d-4368-80b4-cb2a970aa0ab.jpeg?sign=1809837018-400e17a0c1-0-2299d75639502c40b26d20fa3736bc65934d9b85c967a53bfc610f1a079de44e",
     title: `渔家傲·反第二次大"围剿"`,
     ciPai: "渔家傲",
     year: "1931",
@@ -231,6 +239,7 @@ export const poems: Poem[] = [
   },
   {
     id: "pusaman-dabaidi",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_1aaa2616-23a0-4a2e-b85a-5615338a5340.jpeg?sign=1809837049-1bcbe1bea6-0-3fc4002be55d9f13594b362491432f1c8e6ab2dbe222c8f756eadb27a45026d0",
     title: "菩萨蛮·大柏地",
     ciPai: "菩萨蛮",
     year: "1933",
@@ -255,6 +264,7 @@ export const poems: Poem[] = [
   },
   {
     id: "qingpingyue-huichang",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_aa7dfe0a-6c0b-49eb-8cae-12e5489d6951.jpeg?sign=1809837047-4955261254-0-e68be186a054692f6891a671a07dde48618ba30d8547ca7f552abffe06374991",
     title: "清平乐·会昌",
     ciPai: "清平乐",
     year: "1934",
@@ -279,6 +289,7 @@ export const poems: Poem[] = [
   },
   {
     id: "shiliuziling-sanShou",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_114eb4e9-6d57-4b09-8f40-ea204f310647.jpeg?sign=1809837047-9b6223e85c-0-b01a8b6f3832ba7ba1bd9c68e6747d731cd6a4d9adc22ad4cce5fa4b93a4b2c7",
     title: "十六字令三首",
     ciPai: "十六字令",
     year: "1934-1935",
@@ -303,6 +314,7 @@ export const poems: Poem[] = [
   },
   {
     id: "yiqinyue-loushanguan",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_9416d018-d3a6-47e5-8e23-b46b28b588d1.jpeg?sign=1809837047-4220502305-0-12279ba596b6c8cfe30032b4e7f415b7d907f4c7f78a585f88135ecd2b55169d",
     title: "忆秦娥·娄山关",
     ciPai: "忆秦娥",
     year: "1935",
@@ -352,6 +364,7 @@ export const poems: Poem[] = [
   },
   {
     id: "qingpingyue-liupanshan",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_2c3c83a5-5a0b-4ba2-a84a-ae202193111e.jpeg?sign=1809837147-2b177ecfad-0-f699cbe818045a12cac43d3f17438fc9819b73feebae53a73e5740c19f5db7a0",
     title: "清平乐·六盘山",
     ciPai: "清平乐",
     year: "1935",
@@ -376,6 +389,7 @@ export const poems: Poem[] = [
   },
   {
     id: "niannujiao-kunlun",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_52518278-6e1a-41df-8d2c-ec5bfe21e43c.jpeg?sign=1809837068-a8c14914f1-0-0db114b37b00ac0355836e12b23ed4a5455fbca7f45010f97433f8a6be916707",
     title: "念奴娇·昆仑",
     ciPai: "念奴娇",
     year: "1935",
@@ -440,6 +454,7 @@ export const poems: Poem[] = [
   },
   {
     id: "qilv-renminjiefangjun",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_4e577209-5cd2-4396-8a0b-d24a1f104bc8.jpeg?sign=1809837067-cafcc548e4-0-d09019da8c5810424b2accc8d43760f8ed74dad06ddac2d78161e5ff518f56e9",
     title: "七律·人民解放军占领南京",
     year: "1949",
     period: "解放战争",
@@ -464,6 +479,7 @@ export const poems: Poem[] = [
   },
   {
     id: "qilv-heliuyazi",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_408621a8-2c47-4908-8621-0766b3f3ef1c.jpeg?sign=1809837069-5d4371393d-0-dc69c92341077e1a041784db1dff3770a5f2ba85b0e7f117e4fc9a8525c4a6c1",
     title: "七律·和柳亚子先生",
     year: "1949",
     period: "解放战争",
@@ -487,6 +503,7 @@ export const poems: Poem[] = [
   },
   {
     id: "huanxisha-heliuyazi",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_30c89c36-968a-462a-b837-96cb7cee8186.jpeg?sign=1809837067-8de2c0c3e7-0-7a7ba9027b3cc02c905ae774a241105ffd6c893ef1676fd72b089e0a2777a350",
     title: "浣溪沙·和柳亚子先生",
     ciPai: "浣溪沙",
     year: "1950",
@@ -508,6 +525,7 @@ export const poems: Poem[] = [
   },
   {
     id: "langtaosha-beidaihe",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_4535d4e4-a02e-4e67-8440-e6f7af320818.jpeg?sign=1809837097-674b84599a-0-b0bb3276192fbc0f30661c949866b1d88f7e11d53be46711d76e58159e5993f6",
     title: "浪淘沙·北戴河",
     ciPai: "浪淘沙",
     year: "1954",
@@ -564,6 +582,7 @@ export const poems: Poem[] = [
   },
   {
     id: "dielianhua-dalishuyi",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_0cd85a50-b414-4c00-8a89-b623dc065e3f.jpeg?sign=1809837101-f7a592006f-0-4a23f0bb7deee3ddc3b5e74617c6d1ba195dd25b6cd513ee946711951ccf4da7",
     title: "蝶恋花·答李淑一",
     ciPai: "蝶恋花",
     year: "1957",
@@ -589,6 +608,7 @@ export const poems: Poem[] = [
   },
   {
     id: "qilv-songwenshen",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_8e87910c-0fe8-4146-9f6e-2978ab4d0d62.jpeg?sign=1809837097-537dd6c20c-0-9a5caa929f2928ea3cd8694337c76a55f0711de534ffe60387c45df1e731db64",
     title: "七律二首·送瘟神",
     year: "1958",
     period: "新中国建设",
@@ -622,6 +642,7 @@ export const poems: Poem[] = [
   },
   {
     id: "qilv-daoshaoshan",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_f2789c6d-4150-4c67-9a1d-a2a5169af386.jpeg?sign=1809837097-564db3c2ce-0-cc5035af4c7109b3dda98e4790cf3e0a3629327dd04e9f07792810bb013c80e6",
     title: "七律·到韶山",
     year: "1959",
     period: "新中国建设",
@@ -646,6 +667,7 @@ export const poems: Poem[] = [
   },
   {
     id: "qilv-denglushan",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_8d756e8a-09db-4420-99b6-b18df835f5df.jpeg?sign=1809837121-8eea31c383-0-ca8eeed3f40971ad702ac390cc2add8f056f5aee03063e39a654b9dcfab68ca4",
     title: "七律·登庐山",
     year: "1959",
     period: "新中国建设",
@@ -669,6 +691,7 @@ export const poems: Poem[] = [
   },
   {
     id: "qijue-nvminbing",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_8cb97b41-5242-433d-8f4e-355707ec7981.jpeg?sign=1809837121-f9d71fa5e2-0-9ddf42dc0816869be23d6810a6273ef24dd094497114b1d09206124b3bdb332a",
     title: "七绝·为女民兵题照",
     year: "1961",
     period: "新中国建设",
@@ -689,6 +712,7 @@ export const poems: Poem[] = [
   },
   {
     id: "qilv-dayouren",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_35c4a955-b772-4bbc-8217-8124138fc029.jpeg?sign=1809837121-1533ef3b5b-0-14af62f4a70c3cd6d25cf60f822c332978d88c71f6e09397a70666e4bb195b64",
     title: "七律·答友人",
     year: "1961",
     period: "新中国建设",
@@ -712,6 +736,7 @@ export const poems: Poem[] = [
   },
   {
     id: "qijue-lushanxianrendong",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_fb6fb640-e2c0-47ff-985c-7c71088ddc4d.jpeg?sign=1809837120-55c5a85721-0-0dc3cfc8ffa36f4d310ae848ea85d04b55d286eb116f6e065dd5b4ffb4951689",
     title: "七绝·为李进同志题所摄庐山仙人洞照",
     year: "1961",
     period: "新中国建设",
@@ -732,6 +757,7 @@ export const poems: Poem[] = [
   },
   {
     id: "qilv-heguomoruo",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_790c6659-68d5-4758-8fbc-271b9f3f1877.jpeg?sign=1809837149-b185056785-0-21a39dfa690be889126a899035288ad6d65ca922b560fade722ce2f32aa8b723",
     title: "七律·和郭沫若同志",
     year: "1961",
     period: "新中国建设",
@@ -781,6 +807,7 @@ export const poems: Poem[] = [
   },
   {
     id: "qilv-dongyun",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_b412d2b7-ae16-467c-b1a0-33e480fa9beb.jpeg?sign=1809837149-e415e178ce-0-747b4fb0a648623cfe5c93c83e0e41141d5289e43a894095ea598c58e633884b",
     title: "七律·冬云",
     year: "1962",
     period: "新中国建设",
@@ -803,6 +830,7 @@ export const poems: Poem[] = [
   },
   {
     id: "manjianghong-heguomoruo",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_ea6ed1f8-c49d-46da-93c8-5d33387ba340.jpeg?sign=1809837153-ca152052df-0-76cbb68416f92e7a9f356823a1cc45188a4c1e3f2e7bfdc7ed852d58b67eeb51",
     title: "满江红·和郭沫若同志",
     ciPai: "满江红",
     year: "1963",
@@ -832,6 +860,7 @@ export const poems: Poem[] = [
   },
   {
     id: "shuidiaogetou-chongshangjinggangshan",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_536566f1-56c5-49c5-8dc3-baafc251a390.jpeg?sign=1809837171-f7d8ec4986-0-9b502a13fbb982e9fba6b580ecddcf06bfcee16d6a0e8b33ef8c04942d4c307c",
     title: "水调歌头·重上井冈山",
     ciPai: "水调歌头",
     year: "1965",
@@ -861,6 +890,7 @@ export const poems: Poem[] = [
   },
   {
     id: "niannujiao-jinggangshan",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_202413b2-1c6c-4cae-8136-84f07759826f.jpeg?sign=1809837172-981bffa5ab-0-ac80e50719eb81ef873cbd7120c4fe193e5fed0cc1a7eb09defbb228d415f465",
     title: "念奴娇·井冈山",
     ciPai: "念奴娇",
     year: "1965",
@@ -889,6 +919,7 @@ export const poems: Poem[] = [
   },
   {
     id: "qilv-hongdu",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_f7188463-4aad-4ab5-9afa-ec2685fe2375.jpeg?sign=1809837172-0028d3d38e-0-64de76eb857f5fe669848d840c4401a77e1329d7b9e0943a4329ff05d22c93ec",
     title: "七律·洪都",
     year: "1965",
     period: "新中国建设",
@@ -911,6 +942,7 @@ export const poems: Poem[] = [
   },
   {
     id: "qingpingyue-jiangguizhanzheng",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_e7b70d23-8157-45e5-b8e2-8f2cff1d49e7.jpeg?sign=1809837172-1fc8dad2d5-0-d0728b0350f088e9cfccc5626972d5044d928dc8bcfc488caddc0c0b1984bdd5",
     title: "清平乐·蒋桂战争",
     ciPai: "清平乐",
     year: "1929",
@@ -936,6 +968,7 @@ export const poems: Poem[] = [
   },
   {
     id: "qilv-heguomoruo2",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_db76c271-d107-48b6-8915-b33b76cb44f4.jpeg?sign=1809837201-87796c89ca-0-a4787cdda90ce6368751d67d578f190fbc28e7313fab7bc61590394359659a0c",
     title: "七律·和郭沫若同志（看孙悟空三打白骨精）",
     year: "1961",
     period: "新中国建设",
@@ -957,6 +990,7 @@ export const poems: Poem[] = [
   },
   {
     id: "wulv-kanshan",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_df7451c9-45fc-4b86-aabd-d47e5954fb02.jpeg?sign=1809837201-b27ee2e93c-0-716fcb0a5c021c6fc63c8a596e22123e2aa12ed10c349a4ff8b0e55be5e82adc",
     title: "五律·看山",
     year: "1955",
     period: "新中国建设",
@@ -980,6 +1014,7 @@ export const poems: Poem[] = [
   },
   {
     id: "qijue-moganshan",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_d9cc3295-900d-485b-8d60-aeccfa8d6e69.jpeg?sign=1809837200-c011ab8e4b-0-fc0b63d3c5271e971d1558c8d070f4d34a53af703cfd0a5d0c7c27325eafc63e",
     title: "七绝·莫干山",
     year: "1955",
     period: "新中国建设",
@@ -1000,6 +1035,7 @@ export const poems: Poem[] = [
   },
   {
     id: "qilv-yousuosi",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_df0b3e3f-27c5-4ba2-9759-d1024272a1e6.jpeg?sign=1809837199-65d57efc01-0-fbd69ab557031fe69cb1633d4ac7ada8ba9479f91644ee1173724adba5c1b787",
     title: "七律·有所思",
     year: "1966",
     period: "晚年时期",
@@ -1022,6 +1058,7 @@ export const poems: Poem[] = [
   },
   {
     id: "qijue-guanchao",
+    imageUrl: "https://coze-coding-project.tos.coze.site/coze_storage_7637324814851768372/image/generate_image_1a2d8380-ca7d-493f-a177-2e352f806cf3.jpeg?sign=1809837217-168507541e-0-8d91a0125c544dd61bc79ef7302fd166b436a308063f13695b76e10744acdcca",
     title: "七绝·观潮",
     year: "1957",
     period: "新中国建设",
