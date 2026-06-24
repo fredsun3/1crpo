@@ -1,4 +1,4 @@
-import type { NextConfig } from 'next';
+﻿import type { NextConfig } from 'next';
 
 const nextConfig: NextConfig = {
   // outputFileTracingRoot: path.resolve(__dirname, '../../'),  // Uncomment and add 'import path from "path"' if needed
@@ -6,6 +6,8 @@ const nextConfig: NextConfig = {
   allowedDevOrigins: ['*.dev.coze.site'],
   // Static export for GitHub Pages
   output: 'export',
+  // GitHub Pages serves at /1crpo/ subpath
+  basePath: '/1crpo',
   images: {
     unoptimized: true,
     remotePatterns: [
